@@ -2,10 +2,12 @@ add a new player
 US
 add a new member
  addd a new member
-Bye a camera
-make soup
+('Bye a camera\n',)make soup
 make pizza
 We just clean
 Master Py
 Master Python
 
+{Bye new camera
+}
+Add lastly

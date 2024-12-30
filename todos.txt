@@ -1,6 +1,5 @@
 add a new player
 US
-add a new member
  addd a new member
 ('Bye a camera\n',)make soup
 make pizza
